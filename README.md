@@ -16,6 +16,6 @@ The database consists of several tables with foreign key relationships:
 
 - Cities: Contains city names and unique identifiers.
 - Districts: Contains district names linked to their respective cities.
-- Streets: Contains street names linked to their respective districts.
+- Streets: Contains street names.
 - Locations: Aggregates cities, districts, and streets for location-based queries.
 - Listings: Stores the listing data, including a reference to the Locations table.
