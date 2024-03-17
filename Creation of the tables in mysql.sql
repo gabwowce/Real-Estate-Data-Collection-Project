@@ -14,8 +14,6 @@ CREATE TABLE Districts (
 CREATE TABLE Streets (
     StreetID INT AUTO_INCREMENT PRIMARY KEY,
     StreetName VARCHAR(100),
-    DistrictID INT,
-    FOREIGN KEY (DistrictID) REFERENCES Districts(DistrictID)
 );
 
 CREATE TABLE Locations (
