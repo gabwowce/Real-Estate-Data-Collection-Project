@@ -20,12 +20,4 @@ The database consists of several tables with foreign key relationships:
 - Locations: Aggregates cities, districts, and streets for location-based queries.
 - Listings: Stores the listing data, including a reference to the Locations table.
 
-```sql
-SELECT CityName, DistrictName, round(AVG(price),2) avrPrice FROM listings l 
-LEFT JOIN locations l2 ON l.LocationID = l2.LocationID 
-LEFT JOIN cities c ON l2.CityID = c.CityID 
-LEFT JOIN districts d  ON l2.DistrictID = d.DistrictID 
-WHERE l.Status = "For Sale"
-GROUP BY CityName, DistrictName 
-ORDER BY avrPrice DESC
-```
+
