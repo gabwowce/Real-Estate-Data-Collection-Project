@@ -24,7 +24,7 @@ The database consists of several tables with foreign key relationships:
 
 Analysis Objectives
 
-The next phase of the Real Estate Data Collection Project is focused on analyzing the collected data to gain insights into the real estate market in Lithuania. The analysis aims to uncover patterns, trends, and anomalies within the sales and rental markets, facilitating better understanding for potential buyers, sellers, and renters. 
+The next phase of the Real Estate Data Collection Project is focused on analyzing the collected data to gain insights into the real estate market in Lithuania. The analysis aims to uncover patterns, trends, and anomalies within the sales, facilitating better understanding for potential buyers, sellers, and renters. 
 
 #### Market Distribution by City and District: 
 --kur kiek yra parduodamu objektu:
