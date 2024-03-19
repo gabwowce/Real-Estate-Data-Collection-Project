@@ -1,5 +1,9 @@
 ###Average price of apartments for sale###
-
+  
+SELECT ROUND(AVG(Price)) as AveragePrice, MIN(Price) as MinPrice, MAX(Price) as MaxPrice
+FROM Listings
+WHERE Status = "For Sale"
+  
 #By cities:
 
 SELECT CityName, round(AVG(price),2) avrPrice FROM listings l 
