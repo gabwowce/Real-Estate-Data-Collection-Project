@@ -25,6 +25,7 @@ FROM listings l
 WHERE Status = "For Sale"
 ```
 Rezultatas:
+
 ![4](https://github.com/gabwowce/Real-Estate-Data-Collection-and-Analysis-Project/assets/134537965/13b93ce2-5f17-4f51-803f-3977ecfc33c8)
 
 #### Vidutinė butų Lietuvoje kvadratinio metro kaina pagal lokacija: 
@@ -40,6 +41,7 @@ GROUP BY CityName
 ORDER BY Vidutinė_m2_kaina DESC 
 ```
 Rezultatas:
+
 ![6](https://github.com/gabwowce/Real-Estate-Data-Collection-and-Analysis-Project/assets/134537965/fa695200-903d-49ab-ae5f-fee1b825d055)
 ...
 ![5](https://github.com/gabwowce/Real-Estate-Data-Collection-and-Analysis-Project/assets/134537965/10bad50b-c9d9-4105-bdbc-a87f0fa38fc0)
@@ -57,6 +59,7 @@ GROUP BY CityName, DistrictName
 ORDER BY Vidutinė_m2_kaina DESC 
 ```
 Rezultatas:
+
 ![7](https://github.com/gabwowce/Real-Estate-Data-Collection-and-Analysis-Project/assets/134537965/8e4760d8-f57f-4953-967b-a686e5e87694)
 ...
 ![8](https://github.com/gabwowce/Real-Estate-Data-Collection-and-Analysis-Project/assets/134537965/7fd8de34-afc3-4830-affb-687c7ba16d40)
@@ -75,6 +78,7 @@ GROUP BY CityName, DistrictName, StreetName
 ORDER BY Vidutinė_m2_kaina DESC 
 ```
 Rezultatas:
+
 ![9](https://github.com/gabwowce/Real-Estate-Data-Collection-and-Analysis-Project/assets/134537965/916d9567-be9b-43d4-8a46-15da3423414b)
 ...
 ![10](https://github.com/gabwowce/Real-Estate-Data-Collection-and-Analysis-Project/assets/134537965/0066e296-6671-4366-b187-004e22b209d6)
@@ -90,6 +94,7 @@ GROUP BY `Condition`
 ORDER BY Vidutinė_m2_kaina_Lietuvoje DESC 
 ```
 Rezultatas:
+
 ![image](https://github.com/gabwowce/Real-Estate-Data-Collection-and-Analysis-Project/assets/134537965/c67528eb-fbf1-46fc-905f-db9105fd36c9)
 
 - Vidurkis pagal miestą/rajoną ir būto buklę:
@@ -106,6 +111,7 @@ GROUP BY CityName, DistrictName, `Condition`
 ORDER BY Vidutinė_m2_kaina DESC 
 ```
 Rezultatas:
+
 ![image](https://github.com/gabwowce/Real-Estate-Data-Collection-and-Analysis-Project/assets/134537965/d4313a7a-f0ee-494c-a827-afed0c03b581)
 ...
 ![image](https://github.com/gabwowce/Real-Estate-Data-Collection-and-Analysis-Project/assets/134537965/ce4452a2-9052-43ea-8542-067fe91a5353)
@@ -121,6 +127,7 @@ GROUP BY Heating
 ORDER BY Vidutinė_m2_kaina_Lietuvoje DESC 
 ```
 Rezultatas:
+
 ![image](https://github.com/gabwowce/Real-Estate-Data-Collection-and-Analysis-Project/assets/134537965/51cc9ad1-73c3-4901-bc46-65242756b7ac)
 
 - Vidurkis pagal miestą/rajoną ir šildymo tipą:
@@ -137,6 +144,7 @@ GROUP BY CityName, DistrictName, Heating
 ORDER BY Vidutinė_m2_kaina DESC 
 ```
 Rezultatas:
+
 ![image](https://github.com/gabwowce/Real-Estate-Data-Collection-and-Analysis-Project/assets/134537965/abd51fed-d0cb-4fd2-8b9a-983ed5d23e10)
 ...
 ![image](https://github.com/gabwowce/Real-Estate-Data-Collection-and-Analysis-Project/assets/134537965/72f6eb0f-30aa-4d89-a4be-e652dc7c9a0b)
