@@ -158,3 +158,22 @@ Rezultatas:
 ...
 
 ![image](https://github.com/gabwowce/Real-Estate-Data-Collection-and-Analysis-Project/assets/134537965/72f6eb0f-30aa-4d89-a4be-e652dc7c9a0b)
+
+## Išvados
+- #### Kvadratinio metro kainos analizė: 
+
+Analizė parodė, kad vidutinė kvadratinio metro kaina Lietuvoje priklauso nuo daugelio veiksnių, įskaitant miestą/rajoną, būsto būklę ir šildymo tipą. Tai rodo, kad nekilnojamojo turto rinka yra labai įvairi ir dinamiška.
+
+- #### Lokacijos įtaka kainai:
+
+Miesto, rajono ir net gatvės pasirinkimas labai įtakoja vidutinę kvadratinio metro kainą, parodant, kad lokacija yra vienas iš pagrindinių veiksnių, lemiančių nekilnojamojo turto vertę.
+
+- #### Būsto būklės svarba: 
+
+Būsto būklė taip pat yra svarbus veiksnys, nustatant nekilnojamojo turto kainą. Projekto duomenys rodo, kad skirtingų būsto būklių objektų kvadratinio metro kainos labai skiriasi.
+
+- #### Šildymo tipo įtaka: 
+
+Šildymo tipo analizė atskleidė, kad skirtingi šildymo būdai gali turėti įtakos nekilnojamojo turto kainai, rodant, kad energetinio efektyvumo savybės yra svarbios tiek pirkėjams, tiek pardavėjams.
+
+<sub>Norint išsamesnės analizės, reikėtų atlikti multivariacinę analizę, pavyzdžiui, naudojant regresijos modelius, kurie gali atskleisti kiekvieno veiksnio indėlį, kontroliuojant kitų veiksnių įtaką.</sub>
