@@ -176,4 +176,6 @@ Būsto būklė taip pat yra svarbus veiksnys, nustatant nekilnojamojo turto kain
 
 Šildymo tipo analizė atskleidė, kad skirtingi šildymo būdai gali turėti įtakos nekilnojamojo turto kainai, rodant, kad energetinio efektyvumo savybės yra svarbios tiek pirkėjams, tiek pardavėjams.
 
-<small>Norint išsamesnės analizės, reikėtų atlikti multivariacinę analizę, pavyzdžiui, naudojant regresijos modelius, kurie gali atskleisti kiekvieno veiksnio indėlį, kontroliuojant kitų veiksnių įtaką.</small>
+
+
+<sub>Norint išsamesnės analizės, reikėtų atlikti multivariacinę analizę, pavyzdžiui, naudojant regresijos modelius, kurie gali atskleisti kiekvieno veiksnio indėlį, kontroliuojant kitų veiksnių įtaką.</sub>
