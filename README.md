@@ -8,9 +8,7 @@
 - Duomenų bazės saugykla: efektyvus struktūrinių duomenų saugojimas MySQL duomenų bazėje.
 
 #### Duomenų bazės schema:
-![2](https://github.com/gabwowce/Real-Estate-Data-Collection-and-Analysis-Project/assets/134537965/5917a968-b859-42a0-a1f6-5f22a7fa28a1)
-
-
+![3](https://github.com/gabwowce/Real-Estate-Data-Collection-and-Analysis-Project/assets/134537965/8de41895-ff80-4bdd-8e70-7c9aa1685e69)
 
 
 #### Average Price Analysis by different aspects:
