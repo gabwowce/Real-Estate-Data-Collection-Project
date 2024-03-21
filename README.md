@@ -1,4 +1,4 @@
-# Nekilnojamojo turto duomenų rinkimo ir analizė projektas
+# Nekilnojamojo turto duomenų rinkimo ir analizės projektas
 
 
 Šiame projekte Scrapy voras (Scraping_real_estate failas), skirtas skrebinti nekilnojamojo turto sąrašus iš Lietuvos nekilnojamojo turto svetainės domoplius.lt. Pagrindinis tikslas yra rinkti duomenis apie nekilnojamojo turto pardavimą ir nuomą, įskaitant tokią informaciją kaip kaina, vieta, plotas, kambarių skaičius, būklė ir šildymo tipas. Duomenys saugomi MySQL duomenų bazėje, užtikrinant, kad kiekvienas miestas, rajonas ir gatvės įrašas būtų unikalus ir tinkamai nurodytas.
